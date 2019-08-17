@@ -1,0 +1,7 @@
+shodan
+sockets
+pyhunter
+requests
+argparse
+dnspython
+
